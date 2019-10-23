@@ -1,13 +1,12 @@
 //    Copyright (c) The League of Amazing Programmers 2013-2017
 //    Level 0
-
 package _12_fizz_buzz;
 
 
 /**
 * Fizz Buzz
 * 
-* In this project, we're going to build FizzBuzz. It's a children's game where
+//1. In this project, we're going to build FizzBuzz. It's a children's game where
 * you count from 1 to 20. Easy, right? Here's the catch: instead of saying
 * numbers divisible by 3, say "Fizz". And instead of saying numbers divisible
 * by 5, say "Buzz". For numbers divisible by both 3 and 5, say "FizzBuzz".
